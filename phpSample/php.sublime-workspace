@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"di",
+				"d-i	display: inline;"
+			],
+			[
+				"table-c",
+				"table-column"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"f",
+				"form1"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"d",
+				"d-b	display: block;"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"ps",
+				"pos-r	position: relative;"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"lis",
+				"lis-n	list-style: none;"
+			],
+			[
+				"h",
+				"hacerclic"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"icon",
+				"icon-home"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"we",
+				"webkit-keyframes"
+			],
+			[
+				"ico",
+				"icon-contact"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"imag",
+				"background-image"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"b",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 2416,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/david/reveal.js/index.html",
+			"settings":
+			{
+				"buffer_size": 15438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contacto.php",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"emm",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/david/WEB/html5-tutorial/index.html",
+		"/home/david/WEB/html5-tutorial/css/estilos.css",
+		"/home/david/WEB/html5-tutorial/estilos.css",
+		"/home/david/.config/sublime-text-2/Packages/User/html5.sublime-snippet",
+		"/tmp/sublime/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	float:left;\n",
+			"	text-align: center;\n",
+			"center",
+			";\n",
+			"width",
+			"	margin: 0px auto;\n",
+			"\n	",
+			"	float: right;\n",
+			"header > nav> ul li{\n",
+			"width",
+			"%;\n",
+			"footer",
+			";\n",
+			"hover",
+			"png",
+			"icon",
+			"\n	    ",
+			"overflow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles.css",
+					"settings":
+					{
+						"buffer_size": 2416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/david/reveal.js/index.html",
+					"settings":
+					{
+						"buffer_size": 15438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contacto.php",
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
